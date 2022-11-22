@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    font-size: 50px;
+    color: black;
+}
+
+#bedroom{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+#bottle{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+#dining{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+#tv{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+#study{
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+
