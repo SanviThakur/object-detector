@@ -1,0 +1,14 @@
+body{
+background-size: cover;
+}
+
+#heading{
+    font-size: 35px;
+    color: darkred;
+}
+
+#back{
+    font-size:20px;
+color: black;
+
+}
